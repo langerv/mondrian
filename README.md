@@ -1,7 +1,7 @@
 mondrian
 ========
 
-Experiment with Artificial Societies and basic city generation. Visual inspired by Piet Mondrian's Broadway Boogie Woogie
+Experiment with Artificial Societies and basic city generation. Visual inspired by Piet Mondrian's Broadway Boogie Woogie.
 
 ![](snapshot.jpg)
 
@@ -10,3 +10,9 @@ Cities are generated in a pseudo-random fashion from simple street patterns. Hou
 A Floyd algorithm ensures real-time pathfinding to lead each agents through a graph automatically deduced from the city structure. During their motion, agents use also a simple avoidance technique based on neighborhood occupation.
 
 Simulation parameters: {city size, number of citizens}
+
+### Instructions
+Install Python 2.6 and above: https://www.python.org.  
+Install Pygame 1.9 package: http://www.pygame.org.  
+On command schell, execute: `python mondrian.py`.  
+
