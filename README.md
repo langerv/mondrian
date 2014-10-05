@@ -7,6 +7,6 @@ Experiment with Artificial Societies and basic city generation. Visual inspired 
 
 Cities are generated in a pseudo-random fashion from simple street patterns. Houses (white boxes) and markets (red boxes) are derived from streets (yellow). Each agent (or citizen) is allocated to a house, and moves randomly in the city. Agents increase their health finding food (i.e. in markets). 
 
-A Floyd algorithm ensures real-time pathfinding to lead each agents through a graph automatically deduced from the city structure. During motion, agents use also a simple avoidance technique.
+A Floyd algorithm ensures real-time pathfinding to lead each agents through a graph automatically deduced from the city structure. During their motion, agents use also a simple avoidance technique based on neighborhood occupation.
 
 Simulation parameters: {city size, number of citizens}
