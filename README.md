@@ -16,3 +16,6 @@ Install Python 2.6 and above: https://www.python.org.
 Install Pygame 1.9 package: http://www.pygame.org.  
 On command schell, execute: `python mondrian.py`.  
 
+### References
+- Schelling, Thomas C. (1978). Micromotives and Macrobehavior. Norton.
+- Batty, Michael (2005). Cities and Complexity, understanding Cities with Cellular Automata, Agent-Based Models, and Fractals. The MIT Press.
