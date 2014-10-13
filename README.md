@@ -19,6 +19,6 @@ On command schell, execute: `python mondrian.py`.
 ### Todo
 - Add a Schelling segregation model to build neighborhoods.
 
-### References
+### Reference
 - Schelling, Thomas C. (1978). Micromotives and Macrobehavior, Norton.
 - Batty, Michael (2005). Cities and Complexity, understanding Cities with Cellular Automata, Agent-Based Models, and Fractals, The MIT Press.
